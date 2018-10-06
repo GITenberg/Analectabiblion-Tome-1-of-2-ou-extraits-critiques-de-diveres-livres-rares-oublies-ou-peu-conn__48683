@@ -20,6 +20,8 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Analectabiblion, Tome 1 (of 2)
 
   ou extraits critiques de diveres livres rares, oubliés ou peu connus'
